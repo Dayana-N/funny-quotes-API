@@ -75,6 +75,5 @@ def get_phrase_by_id(id:str):
     for item in phrases:
         if item["id"] == phrase_id:
             return [item]
-        else:
-            return []
+    return []
 

@@ -1,5 +1,7 @@
 # Funny API
 A basic api application using FastApi. It returns fun phrases based on the day of the week. Some phrases may include grown up language and introvert vibes. Enjoy!
+Deployed at:
+[https://funny-quotes-api.onrender.com/](https://funny-quotes-api.onrender.com/)
 
 ![img](./meme.jpg)
 
